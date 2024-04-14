@@ -87,8 +87,8 @@
 @media (max-width: 767px) {
     .con{
         flex-direction: column;
-        margin-left: 10px;
-        margin-right: 10px;
+        margin: 10px;
+        
 
     }
     .box1, .box2, .box3{
